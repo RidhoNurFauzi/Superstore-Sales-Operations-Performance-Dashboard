@@ -32,7 +32,7 @@ Alih-alih hanya menampilkan rekapitulasi data penjualan standar, *dashboard* ini
 ### Halaman 1: Executive Summary
 Halaman ini memberikan gambaran tingkat tinggi (*high-level overview*) mengenai volume transaksi dan distribusi penjualan.
 
-![Executive Summary](images/Halaman_1.png)
+![Executive Summary](images/Halaman 1.png)
 
 ### Halaman 2: Customer & Operations Detail
 Halaman ini membedah metrik lebih dalam ke level operasional, menyoroti rata-rata nilai keranjang belanja (AOV) dan performa waktu pengiriman.
