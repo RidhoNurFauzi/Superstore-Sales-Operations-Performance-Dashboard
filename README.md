@@ -16,7 +16,7 @@ Oleh karena itu, fokus utama *dashboard* ini saya arahkan ke **Perilaku Pelangga
 
 **Coba Dashboard Interaktif:**
 Anda dapat berinteraksi langsung dengan *dashboard* ini (berpindah halaman, mengklik filter slicer Tahun dan Wilayah, melihat *tooltips*) melalui tautan publik Power BI berikut:
-🔗 **[Live Superstore Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWE5ZDg3YjctOTJiNS00YWY0LWE5YjUtYmY3OThiY2Q4YTdlIiwidCI6ImY4NjQ5NTQ2LTdjMTctNGNhMS1iMzcyLTI4Njg4NGRlZjRhOCJ9)**
+🔗 **[Live Superstore Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWE5ZDg3YjctOTJiNS00YWY0LWE5YjUtYmY3OThiY2Q4YTdlIiwidCI6ImY4NjQ5NTQ2LTdjMTctNGNhMS1iMzcyLTI4Njg4NGRlZjRhOCJ9&pageName=be9d72f12e396d8da893)**
 
 **Unduh Model Data:**
 Jika Anda tertarik mengeksplorasi langkah demi langkah (*behind the scenes*), melihat skema relasi data (*Star Schema*), dan formula DAX secara lengkap, silakan unduh file `.pbix` yang saya lampirkan di dalam folder `model/` pada repositori ini.
